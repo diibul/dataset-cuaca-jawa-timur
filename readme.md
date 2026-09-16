@@ -145,7 +145,7 @@ Jawa Timur. https://www.bps.go.id
 
 ## Pembuat
 
-**Muhammad Iqbal Fadel**
-Universitas Muhammadiyah Malang
-Machine Learning / C
-2026
+**Muhammad Iqbal Fadel**  
+Machine Learning / C  
+Universitas Muhammadiyah Malang  
+2026  
