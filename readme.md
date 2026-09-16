@@ -80,18 +80,20 @@ Label kondisi cuaca diturunkan dari nilai curah hujan harian:
 ---
 
 ## Struktur Repositori
+
+```
 dataset-cuaca-jawa-timur/
 ├── data/
-│ └── dataset_cuaca_tiga_kota_jatim.csv
+│   └── dataset_cuaca_tiga_kota_jatim.csv
 ├── images/
-│ ├── grafik_1_distribusi_kondisi_cuaca.png
-│ ├── grafik_2_tren_suhu_bulanan.png
-│ ├── grafik_3_boxplot_suhu.png
-│ └── grafik_4_heatmap_korelasi.png
+│   ├── grafik_1_distribusi_kondisi_cuaca.png
+│   ├── grafik_2_tren_suhu_bulanan.png
+│   ├── grafik_3_boxplot_suhu.png
+│   └── grafik_4_heatmap_korelasi.png
 ├── notebook/
-│ └── Dataset_Cuaca_Tiga_Kota_Jawa_Timur.ipynb
+│   └── Dataset_Cuaca_Tiga_Kota_Jawa_Timur.ipynb
 └── README.md
-
+```
 
 ---
 
